@@ -2,10 +2,10 @@
 
 Videojuego 2D desarrollado en Java como proyecto universitario, trabajado en equipo de 2 integrantes.
 
-[Gameplay](gameplay1.gif)
+![Gameplay](gameplay1.gif)
 
 
-[Gameplay2](gameplay2.gif)
+![Gameplay2](gameplay2.gif)
 
 ## Descripción
 
